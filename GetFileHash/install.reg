@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\FileHash]
+"MUIVerb"="File Hash"
+"NoWorkingDirectory"=""
+"Position"="top"
+"Icon"="powershell.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\FileHash\command]
+@="powershell.exe -WindowStyle Hidden -command &\"C:\\SCRIPTS\\FileHash\\Get-Hash.ps1\" \"%V\"" 
