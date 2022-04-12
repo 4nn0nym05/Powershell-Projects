@@ -1,6 +1,6 @@
 
 # How to use?
-* Place all files in same folder*
+* Place all files in same folder
 * Run Install.ps1
 
 Done now you can right click any file and get hash of file. 
