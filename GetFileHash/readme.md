@@ -7,4 +7,3 @@ Done now you can right click any file and get hash of file.
 
 -- Uninstall coming soon -- for now navigate to "HKEY_CLASSES_ROOT\*\shell"  and delete folder GetFileHash
 
---Test GitHub Repo--
